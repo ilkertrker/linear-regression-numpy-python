@@ -1,3 +1,5 @@
+It is a project of Coursera Course of mine. 
+
 
 Linear Regression with NumPy and Python
 Now, we you will  implement gradient descent and linear regression from scratch using NumPy and Python, so you have a deeper understanding of the fundamentals of machine learning. We will accomplish this with the help of following tasks in the project:
